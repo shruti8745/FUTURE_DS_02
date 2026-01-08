@@ -1,11 +1,11 @@
 # 📊 Facebook Ad Campaign Performance Dashboard (Power BI)
 
-**📌 Project Overview**
+## 📌 Project Overview
 
 This project presents an interactive Power BI dashboard developed to analyze Facebook ad campaign performance across multiple campaigns, audience segments, and time periods.
 The dashboard focuses on evaluating marketing efficiency, audience behavior, and conversion effectiveness to support data-driven decision-making.
 
-**🎯 Project Objectives**
+## 🎯 Project Objectives
 
 * Monitor overall Facebook advertising performance 
 
@@ -17,7 +17,7 @@ The dashboard focuses on evaluating marketing efficiency, audience behavior, and
 
 * Track performance trends over time
 
-**📈 Key KPIs**
+## 📈 Key KPIs
 * Total Spend: 176.12K
 
 * Total Impressions: 640M
@@ -56,7 +56,7 @@ The dashboard focuses on evaluating marketing efficiency, audience behavior, and
 
 * **💰 Spend vs Conversion Scatter Plot** highlights campaigns delivering better conversion output for lower spend
 
-🧩 Interactive Dashboard Features
+## 🧩 Interactive Dashboard Features
 
 * Dynamic slicers for:
 
@@ -82,7 +82,7 @@ The dashboard focuses on evaluating marketing efficiency, audience behavior, and
 
 ## 📂 Repository Contents
 
-* facebook.pbix – Power BI dashboard SCREENSHORT<img width="1366" height="768" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/e3f53d1f-b75f-4e98-9007-dba46fd018c7" />
+* **facebook.pbix – Power BI dashboard SCREENSHORT**<img width="1366" height="768" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/e3f53d1f-b75f-4e98-9007-dba46fd018c7" />
 
 
 
@@ -101,5 +101,5 @@ This dashboard enables marketing teams and analysts to:
 
 ## 👩‍💻 Author
 
-## Shruti Kumari
+**Shruti Kumari**
 Data Analyst Intern | Power BI | Excel | Data Visualization
