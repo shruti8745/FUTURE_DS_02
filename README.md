@@ -101,5 +101,5 @@ This dashboard enables marketing teams and analysts to:
 
 ## 👩‍💻 Author
 
-**Shruti Kumari**   
+**Shruti Kumari**      
 Data Analyst Intern | Power BI | Excel | Data Visualization
