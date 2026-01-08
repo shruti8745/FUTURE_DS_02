@@ -36,27 +36,27 @@ The dashboard focuses on evaluating marketing efficiency, audience behavior, and
 
 ## 📊 Key Insights from the Dashboard
 
-* ## 📉 Efficiency Over Time shows a close relationship between ad spend and clicks, helping identify periods of high efficiency
+* **📉 Efficiency Over Time** shows a close relationship between ad spend and clicks, helping identify periods of high efficiency
 
-* ## 🏆 Campaign Analysis reveals:
+* **🏆 Campaign Analysis reveals:**
 
 * Campaign 144622 as a top contributor in impressions and clicks
 
 * Clear visibility of high-cost campaigns for budget optimization
 
-* ## 👥 Audience Performance:
+* **👥 Audience Performance:**
 
 * Male users generate ~63% of clicks, while female users contribute ~37%
 
 * Age group 30–34 shows the highest approved conversions across genders
 
-* ## ✅ Conversion Quality:
+* **✅ Conversion Quality:**
 
 * ~66.94% of conversions are approved, indicating strong lead quality
 
-* ## 💰 Spend vs Conversion Scatter Plot highlights campaigns delivering better conversion output for lower spend
+* **💰 Spend vs Conversion Scatter Plot** highlights campaigns delivering better conversion output for lower spend
 
-## 🧩 Interactive Dashboard Features
+🧩 Interactive Dashboard Features
 
 * Dynamic slicers for:
 
